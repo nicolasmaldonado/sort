@@ -1,0 +1,16 @@
+#mycontent{
+    margin: 50px 150px;
+    padding: 10px 25px;
+    border-style: solid;
+    border-radius: 20px;
+    border-width: 2px;
+    border-color: gainsboro;
+}
+
+.btn {
+    margin: 25px;
+}
+
+.showResult {
+    margin:10px;
+}
